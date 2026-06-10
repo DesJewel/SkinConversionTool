@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Skin Conversion Tool
+Exec=bash -c "cd '%k' && cd .. && python3 main.py"
+Path=/home/dj/sct_py
+Terminal=false
